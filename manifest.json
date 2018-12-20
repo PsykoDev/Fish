@@ -1,0 +1,28 @@
+{
+    "files": {
+        "README.md": "6d1f04319a247cfe38f77130367019ad94d0bf492b0b29d074c1b0522d249809",
+        "index.js": "3cf0c7c82851e2de1aad16e0408204882e1e38eacbc9c1f0f16614c6556b9989",
+        "module.json": "e88e610a9f586b94e5225c0913dcfc38009a9fa7dcee53a785cd899919fc986e"
+    },
+    "defs": {
+        "C_CANCEL_CONTRACT": 1,
+        "C_END_FISHING_MINIGAME": 1,
+        "C_PLAYER_LOCATION": 5,
+        "C_REQUEST_CONTRACT": 1,
+        "C_RQ_ADD_ITEM_TO_DECOMPOSITION_CONTRACT": 1,
+        "C_RQ_COMMIT_DECOMPOSITION_CONTRACT": 1,
+        "C_RQ_START_SOCIAL_ON_PROGRESS_DECOMPOSITION": 1,
+        "C_START_FISHING_MINIGAME": 1,
+        "C_START_PRODUCE": 1,
+        "C_USE_ITEM": 3,
+        "S_CANCEL_CONTRACT": 1,
+        "S_END_PRODUCE": 1,
+        "S_FISHING_BITE": 1,
+        "S_INVEN": 16,
+        "S_LOGIN": 12,
+        "S_REQUEST_CONTRACT": 1,
+        "S_START_FISHING_MINIGAME": 1,
+        "S_SYSTEM_MESSAGE": 1,
+        "S_TRADE_BROKER_DEAL_SUGGESTED": 1
+    }
+}
